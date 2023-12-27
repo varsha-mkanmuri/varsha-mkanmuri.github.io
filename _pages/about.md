@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Varsha Kanmuri"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ I have a Bachelor of Engineering in Computer Science and Engineering from Visves
 
 Technical Skills
 ======
-Languages/Databases: Python, Java, PHP,  JavaScript, ElasticSearch, MySQL, MongoDB, PostgreSQL
-Web/Frameworks: Flask, Django, Spring, REST, HTML, CSS, React
-AWS/ Big Data: Lambda, EC2, S3, Lex, OpenSearch, DynamoDB, CloudWatch, AWS Personalize, SQS, Docker, Kubernetes, Spark.
-Machine Learning Libraries: Pandas, Scikit-learn, NumPy, NLTK, Matplotlib, Tensorflow, PyTorch.
+Languages/Databases: Python, Java, PHP,  JavaScript, ElasticSearch, MySQL, PostgreSQL, MongoDB\
+Web/Frameworks: Flask, Django, Spring, REST, HTML, CSS, React\
+AWS/ Big Data: Lambda, EC2, S3, Lex, OpenSearch, DynamoDB, CloudWatch, AWS Personalize, SQS, Docker, Kubernetes, Spark\
+Machine Learning Libraries: Pandas, Scikit-learn, NumPy, NLTK, Matplotlib, Tensorflow, PyTorch\
