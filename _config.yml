@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Varsha"
   avatar           : "profile.png"
-  bio              : "Master of Science in Computer Science, Columbia University | Ex-Software Development Engineer"
+  bio              : "Master of Science in Computer Science, Columbia University | Software Development Engineer"
   location         : "New York, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/varshameghana/"
+  linkedin         : "varshameghana"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://youtu.be/BarxVQB9RN0"
   wikipedia        :
 
 
