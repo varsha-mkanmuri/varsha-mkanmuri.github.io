@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Varsha"
+  name             : #"Varsha"
   avatar           : "profile.png"
   bio              : "Master of Science in Computer Science, Columbia University | Ex-Software Development Engineer"
   location         : "New York, United States"
