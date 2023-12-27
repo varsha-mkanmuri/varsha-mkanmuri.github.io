@@ -20,4 +20,4 @@ Technical Skills
 **Databases:** MySQL, PostgreSQL, ElasticSearch, MongoDB\
 **Web/Frameworks:** Flask, Django, Spring, REST, HTML, CSS, React\
 **AWS/Big Data:** Lambda, EC2, S3, Lex, OpenSearch, DynamoDB, CloudWatch, AWS Personalize, SQS, Docker, Kubernetes, Spark\
-**Machine Learning Libraries:** Pandas, Scikit-learn, NumPy, NLTK, Matplotlib, Tensorflow, PyTorch
+**Machine Learning Libraries:** Pandas, Scikit-learn, NumPy, NLTK, Tensorflow, PyTorch
