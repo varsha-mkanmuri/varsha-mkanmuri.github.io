@@ -7,19 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am Varsha, a Master of Science in Computer Science student at Columbia University and an Ex-Senior Software Development Engineer.
+Hello! I am Varsha, a Software Engineer at GE Healthcare and a recent MS in Computer Science graduate from Columbia University, specializing in machine learning.
 
-I aspire to create meaningful solutions through technology. My focus is on software engineering and machine learning, the domains where I have extensive experience and interest. Before pursuing Masters at Columbia University, I worked as a senior software development engineer at Khoros and Radius Agent, developing scalable products for various clients, performing data analysis, system design, and algorithm optimization.
+Throughout my software engineering career, I have focused on backend application development, integrating my expertise in machine learning. For example, I optimized Elasticsearch infrastructure, reducing usage by 12%, and enhanced database capabilities by processing data from multiple real estate sources, expanding our client base by over 30%. I have had the privilege of working in both startup environments and large corporations, which has enriched my product sense alongside technical skills.
 
-I have a Bachelor of Engineering degree in Computer Science, where I secured a first class with distinction. I completed several projects and internships that demonstrate my skills and passion for software engineering and machine learning. To name a few, I engineered scripts to reduce the infrastructure used by Elasticsearch by 12%, and I consolidated and processed property data from over 20 real estate search engines, increasing the internal database of potential clients by over 30%. 
+My passion lies in leveraging technology to create impactful solutions. With a strong background in software engineering and machine learning, I have gained valuable insights during my time at Columbia University, learning from exceptional mentors and sharing my knowledge through mentoring and teaching experiences. Graduating from Columbia University with a GPA of 4.03/4 and holding a Bachelor of Engineering degree in Computer Science, I have undertaken numerous projects and internships that demonstrate my dedication to software engineering and machine learning.
 
-I am eager to join an organization where I can continue to learn, be challenged, and make a real impact.
-
+I am eager to bring my skills and enthusiasm to a team where I can continue to learn, tackle new challenges, and contribute meaningfully.
 
 Technical Skills
 ======
-**Languages:** Python, Java, PHP, Go, JavaScript\
+**Languages:** Python, Java, JavaScript, PHP, Go \
 **Databases:** MySQL, PostgreSQL, ElasticSearch, MongoDB\
-**Web/Frameworks:** Flask, Django, Spring, REST, HTML, CSS, React\
-**AWS/Big Data:** Lambda, EC2, S3, Lex, OpenSearch, DynamoDB, CloudWatch, AWS Personalize, Rekognition, SQS, Docker, Kubernetes, Spark\
+**Web/Frameworks:** Flask, Spring, REST, React\
+**AWS/Big Data:** Lambda, S3, Lex, OpenSearch, DynamoDB, CloudWatch, AWS Personalize, Rekognition, SQS, Docker\
 **Machine Learning Libraries:** Pandas, Scikit-learn, NumPy, NLTK, Tensorflow, PyTorch
